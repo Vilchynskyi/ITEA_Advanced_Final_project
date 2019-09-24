@@ -49,31 +49,31 @@ def seed_products_with_image():
 
 if __name__ == '__main__':
     connect('bot_shop')
-    # en_text = dict(
-    #     title='Greetings',
-    #     text=random_string(2000),
-    # )
-    # Text(**en_text).save()
+    en_text = dict(
+         title='Greetings',
+         text=random_string(2000),
+    )
+    Text(**en_text).save()
 
-    # ru_text = dict(
-    #     title='Ru greetings',
-    #     text='Добро пожаловать в наш магазин. '
-    #          'Спасибо что Вы посетили наш магазин. Надеюсь Вы найдёте то, '
-    #          'что искали! Удачных покупок! :-)'
-    # )
-    # Text(**ru_text).save()
+    ru_text = dict(
+         title='Ru greetings',
+         text='Добро пожаловать в наш магазин. '
+              'Спасибо что Вы посетили наш магазин. Надеюсь Вы найдёте то, '
+              'что искали! Удачных покупок! :-)'
+     )
+    Text(**ru_text).save()
 
     """Seed 10 categories and 50 products"""
-    # categories_10 = list(CATEGORIES.keys())[:10]
-    # seeded_categories = seed_and_get_categories(categories_10)
-    # seed_products(PRODUCTS, seeded_categories)
+    categories_10 = list(CATEGORIES.keys())[:10]
+    seeded_categories = seed_and_get_categories(categories_10)
+    seed_products(PRODUCTS, seeded_categories)
 
     """Seed 3 subcategories in first category"""
-    # category_obj = Category.objects.all().first()
-    # auto_category = CATEGORIES['Авто']
-    # subcategories = seed_and_get_categories(auto_category)
-    # category_obj.sub_categories = subcategories
-    # category_obj.save()
+    category_obj = Category.objects.all().first()
+    auto_category = CATEGORIES['Авто']
+    subcategories = seed_and_get_categories(auto_category)
+    category_obj.sub_categories = subcategories
+    category_obj.save()
 
     """Add to each product image"""
     # seed_products_with_image()
