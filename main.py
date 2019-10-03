@@ -1,4 +1,6 @@
 import telebot
+import time
+from flask import Flask
 from bot.config import TOKEN
 from models.cats_and_products_models import (Category,
                                              Text,
@@ -16,7 +18,20 @@ from bson import ObjectId
 
 connect('bot_shop')
 
+API_TOKEN = TOKEN
+
+WEBHOOK_HOST = "35.224.7.93"
+WEBHOOK_PORT = 80
+WEBHOOK_LISTEN = "0.0.0.0"
+
+WEBHOOK_SSL_CERT = './webhook_cert.pem'
+WEBHOOK_SSL_PRIV = './webhook_pkey.pem'
+
+WEBHOOK_URL_BASE = "https://%s:%s" % (WEBHOOK_HOST, WEBHOOK_PORT)
+WEBHOOK_URL_PATH = "/%s/" % (API_TOKEN)
+
 bot = telebot.TeleBot(TOKEN)
+app = Flask(__name__)
 
 
 @bot.message_handler(commands=['start'])
@@ -222,6 +237,15 @@ def send_order_history(message):
         print(ord[ObjectId])
 
 
-if __name__ == '__main__':
-    print('Bot started')
-    bot.polling()
+bot.remove_webhook()
+
+time.sleep(0.1)
+
+bot.set_webhook(url=WEBHOOK_URL_BASE + WEBHOOK_URL_PATH,
+                certificate=open(WEBHOOK_SSL_CERT, 'r'))
+
+# Start flask server
+app.run(host=WEBHOOK_LISTEN,
+        port=WEBHOOK_PORT,
+        ssl_context=(WEBHOOK_SSL_CERT, WEBHOOK_SSL_PRIV),
+        debug=True)

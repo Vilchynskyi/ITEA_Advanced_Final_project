@@ -80,3 +80,6 @@ class OrdersHistory(Document):
             return history
         else:
             cls(user).save()
+
+    def __str__(self):
+        return
