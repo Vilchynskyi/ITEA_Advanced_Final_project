@@ -1,0 +1,144 @@
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on https://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 560-346-958
+91.108.6.64 - - [03/Oct/2019 17:40:38] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:40:40] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:46:56] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:46:58] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on https://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 560-346-958
+91.108.6.64 - - [03/Oct/2019 17:49:26] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:49:27] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:49:27] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:49:27] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:49:28] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:55:06] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:55:08] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:55:10] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:55:12] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:56:40] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:57:06] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:57:08] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:59:17] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:59:18] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:59:20] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:59:25] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:59:44] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:59:47] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:59:50] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 17:59:51] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:01:55] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:01:56] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:04:30] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:04:37] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+2019-10-03 18:04:37,646 (util.py:65 WorkerThread1) ERROR - TeleBot: "DoesNotExist occurred, args=('OrdersHistory matching query does not exist.',)
+Traceback (most recent call last):
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/mongoengine/queryset/base.py", line 266, in get
+    result = six.next(queryset)
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/mongoengine/queryset/base.py", line 1485, in __next__
+    raw_doc = six.next(self._cursor)
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/pymongo/cursor.py", line 1164, in next
+    raise StopIteration
+StopIteration
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/home/roma_vilchynskyy/ITEA_Advanced_Final_project/main.py", line 243, in send_order_history
+    order_history = OrdersHistory.objects.get(user=current_user)
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/mongoengine/queryset/base.py", line 270, in get
+    raise queryset._document.DoesNotExist(msg)
+models.cats_and_products_models.DoesNotExist: OrdersHistory matching query does not exist.
+"
+91.108.6.64 - - [03/Oct/2019 18:04:45] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:04:47] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:04:48] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:04:48] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:04:49] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:04:49] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:04:51] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+2019-10-03 18:04:51,793 (util.py:65 WorkerThread2) ERROR - TeleBot: "DoesNotExist occurred, args=('OrdersHistory matching query does not exist.',)
+Traceback (most recent call last):
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/mongoengine/queryset/base.py", line 266, in get
+    result = six.next(queryset)
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/mongoengine/queryset/base.py", line 1485, in __next__
+    raw_doc = six.next(self._cursor)
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/pymongo/cursor.py", line 1164, in next
+    raise StopIteration
+StopIteration
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/home/roma_vilchynskyy/ITEA_Advanced_Final_project/main.py", line 243, in send_order_history
+    order_history = OrdersHistory.objects.get(user=current_user)
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/mongoengine/queryset/base.py", line 270, in get
+    raise queryset._document.DoesNotExist(msg)
+models.cats_and_products_models.DoesNotExist: OrdersHistory matching query does not exist.
+"
+91.108.6.64 - - [03/Oct/2019 18:04:53] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:04:55] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+2019-10-03 18:04:55,888 (util.py:65 WorkerThread1) ERROR - TeleBot: "AttributeError occurred, args=("'NoneType' object has no attribute 'orders'",)
+Traceback (most recent call last):
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/home/roma_vilchynskyy/ITEA_Advanced_Final_project/main.py", line 233, in submit_cart
+    order_history.orders.append(cart)
+AttributeError: 'NoneType' object has no attribute 'orders'
+"
+91.108.6.64 - - [03/Oct/2019 18:05:14] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:05:17] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [03/Oct/2019 18:05:21] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+2019-10-03 18:05:21,219 (util.py:65 WorkerThread1) ERROR - TeleBot: "KeyError occurred, args=(<class 'bson.objectid.ObjectId'>,)
+Traceback (most recent call last):
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/telebot/util.py", line 59, in run
+    task(*args, **kwargs)
+  File "/home/roma_vilchynskyy/ITEA_Advanced_Final_project/main.py", line 248, in send_order_history
+    print(ord[ObjectId])
+  File "/home/roma_vilchynskyy/.local/lib/python3.6/site-packages/mongoengine/base/document.py", line 242, in __getitem__
+    raise KeyError(name)
+KeyError: <class 'bson.objectid.ObjectId'>
+"
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on https://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 560-346-958
+91.108.6.64 - - [04/Oct/2019 07:10:26] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [04/Oct/2019 07:10:28] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [04/Oct/2019 07:10:38] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [04/Oct/2019 07:10:40] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [04/Oct/2019 07:10:42] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [04/Oct/2019 07:10:45] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+ * Serving Flask app "main" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on https://0.0.0.0:80/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 560-346-958
+91.108.6.64 - - [04/Oct/2019 07:12:16] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
+91.108.6.64 - - [04/Oct/2019 07:12:30] "POST /925964226:AAGov9nMVhhcj_DOuC50Wu9P7imzd7M-TKk/ HTTP/1.1" 200 -
