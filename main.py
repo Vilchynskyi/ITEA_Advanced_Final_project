@@ -1,4 +1,3 @@
-#bot @Iteatestqwertybot is working now
 
 import telebot
 import time
