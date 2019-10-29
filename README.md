@@ -1,1 +1,1 @@
-Hello! This is my first project. This project i have created with pyTelegramBotAPI and MongoDB.
+Hello! This is my first project on Python. This project i have developed with pyTelegramBotAPI and MongoDB. I have created models Produce, Category/Subcategory, User, Cart and OrderHistory. I also have develeped seeder for Product and Category/Subcategory models. This telegram bot have been working on Google Cloud Platform with help web-hooking. Now it's deactivated. 
